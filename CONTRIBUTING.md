@@ -1,7 +1,8 @@
 # Contribution Guidelines
 
-*Obs:* If you don`t know how to contribute on github projects check [this](https://www.youtube.com/watch?v=yr6IzOGoMsQ)
-*Obs 2:* If you only speak Portuguese, check the [pt-BR](CONTRIBUTING-PT-BR.md).
+**Obs:** If you don't know how to contribute on github projects check [this](https://www.youtube.com/watch?v=yr6IzOGoMsQ)
+
+**Obs 2:** If you only speak Portuguese, check the [pt-BR](CONTRIBUTING-PT-BR.md).
 
 Please ensure your pull request adheres to the following guidelines:
 
@@ -25,4 +26,3 @@ Commentary - [@you](https://github.com/you)
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
 - The pull request and commit should have a useful title.
-- Pull Requests without a personal comment will not be accepted until one is added.

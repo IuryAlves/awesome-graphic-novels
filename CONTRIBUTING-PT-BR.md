@@ -1,6 +1,6 @@
 # Guia para contribuir
 
-*Obs:* Se você não sabe como contribuir com projetos do Github, veja [isso](https://www.youtube.com/watch?v=yr6IzOGoMsQ)
+**Obs:** Se você não sabe como contribuir com projetos do Github, veja [isso](https://www.youtube.com/watch?v=yr6IzOGoMsQ)
 
 Por favor verifique que seu pull request segue os seguintes requisitos:
 
