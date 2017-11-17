@@ -89,6 +89,7 @@ a {
 }
 
 .page-header {
+  background-repeat: round;
   background-image: url('https://raw.githubusercontent.com/IuryAlves/awesome-graphic-novels/master/assets/static/graphic-novels.png');
 
   @include large {
