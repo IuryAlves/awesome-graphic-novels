@@ -1,5 +1,5 @@
-# awesome-comic-books
-Comic books worth reading
+# awesome-graphic-novels
+
 
 ## Table of Contents
 
